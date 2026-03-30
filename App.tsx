@@ -1,6 +1,6 @@
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { useFonts } from 'expo-font';
-import HistoryScreen from './src/screens/HistoryScreen';
+import SettingsScreen from './src/screens/SettingsScreen';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -11,7 +11,7 @@ export default function App() {
 
   return (
     <SafeAreaProvider>
-      <HistoryScreen />
+      <SettingsScreen />
     </SafeAreaProvider>
   );
 }
