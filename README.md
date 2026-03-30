@@ -1,7 +1,7 @@
 # STT-Prototype
-<img width="334" height="706" alt="Screenshot 2026-03-30 at 23 56 32" src="https://github.com/user-attachments/assets/e4a5c513-6b09-4e52-a685-6fdacba57ada" />
-<img width="339" height="707" alt="Screenshot 2026-03-30 at 23 56 23" src="https://github.com/user-attachments/assets/db95e062-afe3-4296-ae4e-d0bbe1861817" />
-<img width="339" height="706" alt="Screenshot 2026-03-30 at 23 56 03" src="https://github.com/user-attachments/assets/c1a9b904-0176-4a64-a706-54839fb7a053" />
+<img width="320" height="700" alt="Screenshot 2026-03-30 at 23 56 32" src="https://github.com/user-attachments/assets/e4a5c513-6b09-4e52-a685-6fdacba57ada" />
+<img width="320" height="700" alt="Screenshot 2026-03-30 at 23 56 23" src="https://github.com/user-attachments/assets/db95e062-afe3-4296-ae4e-d0bbe1861817" />
+<img width="320" height="700" alt="Screenshot 2026-03-30 at 23 56 03" src="https://github.com/user-attachments/assets/c1a9b904-0176-4a64-a706-54839fb7a053" />
 <img width="334" height="703" alt="Screenshot 2026-03-30 at 23 55 52" src="https://github.com/user-attachments/assets/dcd2db91-e210-4678-b9e1-ee2ce202afe0" />
 <img width="337" height="705" alt="Screenshot 2026-03-30 at 23 55 38" src="https://github.com/user-attachments/assets/f8c92fc7-bd92-4cc7-b012-b1f498dd048d" />
 <img width="339" height="704" alt="Screenshot 2026-03-30 at 23 55 30" src="https://github.com/user-attachments/assets/fb4a5352-d9bf-4074-ad27-168fe020bed7" />
